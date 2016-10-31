@@ -1,9 +1,8 @@
 # Beginners OpenGL Tutorials by ThinMatrix
 
-### Tutorial 02: VAOs and VBOs 
+### Tutorial 03: Rendering with Index Buffers
 
-Video at the current part of the code: [link](https://youtu.be/WMiggUPst-Q?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP)
-
+Video at the current part of the code: [link](https://youtu.be/z2yFlvkBbmk?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP)
 
 ---
 
