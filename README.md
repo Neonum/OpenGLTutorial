@@ -7,3 +7,5 @@ Just followed the YouTube series from [ThinMatrix](https://www.youtube.com/playl
 Tutorial 01: [The Display](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-01-the-display)
 
 Tutorial 02: [VAOs and VBOs](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-02-vaos-and-vbos)
+
+Tutorial 03: [Rendering with Index Buffers](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-03-rendering-with-index-buffers)
