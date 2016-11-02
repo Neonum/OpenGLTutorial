@@ -9,3 +9,5 @@ Tutorial 01: [The Display](https://github.com/elitebox/OpenGLTutorial/tree/main/
 Tutorial 02: [VAOs and VBOs](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-02-vaos-and-vbos)
 
 Tutorial 03: [Rendering with Index Buffers](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-03-rendering-with-index-buffers)
+
+Tutorial 04: [Introduction to Shaders](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-04-introduction-to-shaders)
