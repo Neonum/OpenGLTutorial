@@ -1,8 +1,8 @@
 # Beginners OpenGL Tutorials by ThinMatrix
 
-### Tutorial 04: Introduction to Shaders
+### Tutorial 05: Coloring using Shaders
 
-Video at the current part of the code: [link](https://youtu.be/AyNZG_mqGVE?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP)
+Video at the current part of the code: [link](https://youtu.be/4w7lNF8dnYw?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP)
 
 ---
 
