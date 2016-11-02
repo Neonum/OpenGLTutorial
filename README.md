@@ -1,8 +1,8 @@
 # Beginners OpenGL Tutorials by ThinMatrix
 
-### Tutorial 03: Rendering with Index Buffers
+### Tutorial 04: Introduction to Shaders
 
-Video at the current part of the code: [link](https://youtu.be/z2yFlvkBbmk?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP)
+Video at the current part of the code: [link](https://youtu.be/AyNZG_mqGVE?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP)
 
 ---
 
