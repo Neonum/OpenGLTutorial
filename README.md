@@ -13,3 +13,5 @@ Tutorial 03: [Rendering with Index Buffers](https://github.com/elitebox/OpenGLTu
 Tutorial 04: [Introduction to Shaders](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-04-introduction-to-shaders)
 
 Tutorial 05: [Coloring using Shaders](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-05-coloring-using-shaders)
+
+Tutorial 06: [Texturing](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-06-texturing)
