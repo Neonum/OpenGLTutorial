@@ -17,3 +17,5 @@ Tutorial 05: [Coloring using Shaders](https://github.com/elitebox/OpenGLTutorial
 Tutorial 06: [Texturing](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-06-texturing)
 
 Tutorial 07: [Matrices & Uniform Variables](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-07-matrices-and-uniform-variables)
+
+Tutorial 08: [Model, View & Projection Matrices](https://github.com/elitebox/OpenGLTutorial/tree/main/tutorial-08-model-view-and-projection-matrices)
